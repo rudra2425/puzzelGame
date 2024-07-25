@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/puzzel.iml" filepath="$PROJECT_DIR$/.idea/modules/puzzel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/puzzel.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/puzzel.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/puzzel.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/puzzel.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/puzzel.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/puzzel.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/puzzel.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/puzzel.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/horizontalspinner/puzzel.horizontalspinner.iml" filepath="$PROJECT_DIR$/.idea/modules/horizontalspinner/puzzel.horizontalspinner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/horizontalspinner/puzzel.horizontalspinner.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/horizontalspinner/puzzel.horizontalspinner.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/horizontalspinner/puzzel.horizontalspinner.main.iml" filepath="$PROJECT_DIR$/.idea/modules/horizontalspinner/puzzel.horizontalspinner.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/horizontalspinner/puzzel.horizontalspinner.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/horizontalspinner/puzzel.horizontalspinner.unitTest.iml" />
+    </modules>
+  </component>
+</project>
