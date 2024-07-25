@@ -37,4 +37,4 @@ RUN ./gradlew assembleDebug
 CMD ["./gradlew", "assembleDebug"]
 
 # Optional: Expose port if your app runs a server or needs to be accessed externally
-# EXPOSE 8080
+EXPOSE 8080
