@@ -4,13 +4,13 @@ buildscript {
         google()
         jcenter()
         mavenCentral()
-        gradlePluginPortal() // Ensure Gradle Plugin Portal is included
+        gradlePluginPortal() // Ensure this is included
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:4.0.1'
         classpath 'com.google.gms:google-services:4.0.1'
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
-        classpath "org.sonarsource.scanner.gradle:sonarqube-gradle-plugin:3.9.0.2164" // Updated SonarQube plugin version
+        classpath "org.sonarsource.scanner.gradle:sonarqube-gradle-plugin:3.8.0.2131" // Updated SonarQube plugin version
     }
 }
 
