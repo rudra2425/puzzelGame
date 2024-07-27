@@ -1,39 +1,26 @@
 {
   "project_info": {
-    "project_number": "668752209022",
-    "firebase_url": "https://word-search-backend.firebaseio.com",
-    "project_id": "word-search-backend",
-    "storage_bucket": "word-search-backend.appspot.com"
+    "project_number": "428870348105",
+    "project_id": "add-app-f67aa",
+    "storage_bucket": "add-app-f67aa.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:668752209022:android:80eca29ed24c8f18",
+        "mobilesdk_app_id": "1:428870348105:android:6757004b7b38817bdcbe98",
         "android_client_info": {
           "package_name": "com.aar.app.wsp"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "668752209022-muomsm8ncnrpl3knpiki8ni0tuecfigb.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBSPlN3Vnly1y9_-h5Xii2Y5gvTv9QISWw"
+          "current_key": "AIzaSyBAgM1uHqaYT-CK7PLBob-d4WLs7LRoSVU"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
           "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
         }
       }
     }
